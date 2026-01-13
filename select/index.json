@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "鱗",
+  "base_artist": "Broken my toybox",
+  "createdAt": "2026-01-13T04:40:18.805250Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鱗(うろこ)",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/01_鱗(うろこ)_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鱗 (Uroko)",
+      "artist": "Dir en grey",
+      "has_synced": true,
+      "path": "select/02_鱗_(Uroko)_Dir_en_grey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鱗(うろこ)",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/03_鱗(うろこ)_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Uroko; 鱗",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/04_Uroko;_鱗_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鱗",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/05_鱗_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "鱗",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/06_鱗_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "鱗(うろこ)",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/07_鱗(うろこ)_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "鱗(うろこ) [弾き語り Version]",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/08_鱗(うろこ)_[弾き語り_Version]_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "鱗",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/09_鱗_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "鱗(うろこ) - Uroko",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/10_鱗(うろこ)_-_Uroko_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "鱗(うろこ)",
+      "artist": "ONEW",
+      "has_synced": true,
+      "path": "select/11_鱗(うろこ)_ONEW.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "鱗(うろこ)",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/12_鱗(うろこ)_Straightener.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "鱗(うろこ)",
+      "artist": "秦　基博",
+      "has_synced": true,
+      "path": "select/13_鱗(うろこ)_秦_基博.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "鱗(うろこ)",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/14_鱗(うろこ)_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鱗",
+      "artist": "Broken my toybox",
+      "has_synced": false,
+      "path": "select/pl_01_鱗_Broken_my_toybox.txt"
+    }
+  ]
+}
